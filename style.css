@@ -1,0 +1,9 @@
+nav {
+    background: #23cc1b;
+background: linear-gradient(90deg,rgba(35, 204, 27, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+
+.carousel-inner img {
+max-height: 400px; /* Cambia este valor según lo que necesites */
+ object-fit: cover;
+ }
